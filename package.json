@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+      "@ffmpeg-installer/ffmpeg": "^1.1.0",
+      "@ffprobe-installer/ffprobe": "^2.1.2",
+      "@tensorflow/tfjs-node": "^4.17.0",
+      "dotenv": "^16.4.5",
+      "express": "^4.18.3",
+      "file-type": "^19.0.0",
+      "fluent-ffmpeg": "^2.1.2",
+      "jpeg-js": "^0.4.4",
+      "nsfwjs": "^4.1.0",
+      "sharp": "^0.33.2"
+    },
+    "name": "nsfwdetect",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+  }
+  

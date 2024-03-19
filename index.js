@@ -87,7 +87,7 @@
         }
     })
 
-    const port = process.env.PORT || process.env.SERVER_PORT || 3000
+    const port = process.env.PORT || process.env.SERVER_PORT || 7860
 
     app.listen(port, () => {
         console.log(`Example app listening on port ${port}`)
